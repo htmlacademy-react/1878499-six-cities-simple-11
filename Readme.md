@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов (простой)»
 
 * Студент: [Roman Malinovskiy](https://up.htmlacademy.ru/react/11/user/1878499).
-* Наставник: [Roman Reshetnikov](https://htmlacademy.ru/profile/id1919895).
+* Наставник: [Aleksandr Bykov](https://htmlacademy.ru/profile/id7107).
 
 ---
 
