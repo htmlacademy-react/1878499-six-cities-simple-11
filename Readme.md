@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов (простой)»
 
 * Студент: [Roman Malinovskiy](https://up.htmlacademy.ru/react/11/user/1878499).
-* Наставник: `Неизвестно`.
+* Наставник: [Aleksandr Bykov](https://htmlacademy.ru/profile/id7107).
 
 ---
 
@@ -19,6 +19,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`._
 #### 2. Создайте форк
 
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
+мnpm i @htmlacademy/cra-template-typescript
 
 <img width="769" alt="Press 'Fork'" src="https://cloud.githubusercontent.com/assets/259739/20264045/a1ddbf40-aa7a-11e6-9a1a-724a1c0123c8.png">
 
